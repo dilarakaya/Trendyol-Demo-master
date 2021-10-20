@@ -1,0 +1,17 @@
+[INFO ] 2021-10-20 13:34:51.658 [main] Log - Test are starting...
+[INFO ] 2021-10-20 13:34:51.658 [main] Log - Starting driver...
+[INFO ] 2021-10-20 13:34:51.674 [main] Log - Read value from config.properties for browser = chrome
+[INFO ] 2021-10-20 13:34:51.674 [main] Log - Read value from config.properties for baseurl = https://www.gittigidiyor.com/
+[INFO ] 2021-10-20 13:34:51.674 [main] Log - Read value from config.properties for userName = testaccount464608
+[INFO ] 2021-10-20 13:34:51.674 [main] Log - Read value from config.properties for passWord = 123456Aa
+[INFO ] 2021-10-20 13:34:51.674 [main] Log - Read value from config.properties for keyWord = bilgisayar
+[INFO ] 2021-10-20 13:34:51.674 [main] Log - Read value from config.properties for pageNumber = 2
+[INFO ] 2021-10-20 13:34:53.323 [main] Log - Select Chrome Driver
+[INFO ] 2021-10-20 13:34:53.452 [main] Log - Driver window maximize
+[INFO ] 2021-10-20 13:34:56.362 [main] Log - Driver get url = https://www.gittigidiyor.com/
+[INFO ] 2021-10-20 13:34:56.408 [main] Log - Wait for loading page...
+[INFO ] 2021-10-20 13:34:56.419 [main] Log - Loading successful.
+[INFO ] 2021-10-20 13:34:56.419 [main] Log - Detected Cookie
+[INFO ] 2021-10-20 13:34:56.569 [main] Log - Cookie is disable
+[INFO ] 2021-10-20 13:34:58.747 [main] Log - Test are ending...
+[INFO ] 2021-10-20 13:34:58.747 [main] Log - Closing driver...
